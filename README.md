@@ -1,5 +1,13 @@
-# Homework
+# Homework 4
 
-In general, your homework assignment will require you to clone this repo, and answer the questions in the `.ipynb` file.
+To complete this homework, you will need to:
 
-For submission instructions, [please see the course website](https://ubc-cs.github.io/cpsc330-2025S1/docs/homework_instructions.html).
+- Create a private repository from the provided template
+
+- Clone the repository to your local computer
+
+- Work on the assignment in Jupyter Lab or VS Code, committing your work regularly
+
+- Submit your solution on Gradescope
+
+Detailed instructions for each step are available on [the course website](https://ubc-cs.github.io/cpsc330-2025W1/docs/homework_instructions.html).
